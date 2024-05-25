@@ -1,2 +1,9 @@
-I code some crazy stuff in C# or Python.
-I like gamedev and graphics-related things.
+Hello!
+My main language is C#. Check out my [blog](https://hickvieira.github.io/). I eventually write about gamedev.
+
+Interests:
+- Game Development
+- Computer Graphics
+- HPC
+- Unity
+- Rust
