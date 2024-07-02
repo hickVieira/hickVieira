@@ -9,11 +9,3 @@ Tech stack:
 - git
 
 Check out my [blog](https://hickvieira.github.io/). I (will) eventually write about gamedev.
-
-Hobby/Interests:
-- Game Development
-- Computer Graphics
-- HPC
-- Unity
-- C#
-- Rust
