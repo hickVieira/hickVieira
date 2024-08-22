@@ -5,4 +5,4 @@ I am currently working with QA and test automation tech.
 - jest
 - git
 
-Check out my [blog](https://hickvieira.github.io/).
+<!-- Check out my [blog](https://hickvieira.github.io/). -->
